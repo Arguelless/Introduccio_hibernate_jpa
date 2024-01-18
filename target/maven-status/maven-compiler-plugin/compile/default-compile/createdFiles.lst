@@ -1,0 +1,5 @@
+com\arguelles\Ciutat.class
+com\arguelles\Ciutada.class
+com\arguelles\Main.class
+com\arguelles\Manager.class
+META-INF\annotations\javax.persistence.Entity
